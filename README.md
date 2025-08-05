@@ -1,16 +1,27 @@
-## Hi there 👋
+# Pushutropa Cheats Sims 4
 
-<!--
-**PUSHURRUMINA/PUSHURRUMINA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repo contiene la página web de cheats de Los Sims 4 hecha para la tropa.  
+Es 100% gratis, sin servidores ni micropagos. Solo necesitas abrir el link y usarlo.
 
-Here are some ideas to get you started:
+## Qué tiene
+- Buscador por palabra, categoría o etiquetas.  
+- Favoritos (se guardan en tu navegador).  
+- Tema claro / oscuro.  
+- Cambio de idioma Español / Inglés.  
+- Sugerencias: tus seguidores pueden proponer nuevos cheats desde la misma página.  
+- Copiar con un clic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cómo usar
+1. Abrí el link público (activo después de activar GitHub Pages).  
+2. Escribí en la barra de búsqueda (ej: "dinero", "habilidades", etc.).  
+3. Marcá con la estrella los cheats que quieras guardar.  
+4. Cambiá el idioma o tema si querés en los controles de arriba.  
+5. Tus seguidores pueden dejar sugerencias en la sección correspondiente (se guardan localmente).
+
+## Cómo actualizar
+- Editá el archivo `index.html` desde GitHub o subí una versión nueva con más cheats.  
+- Podés copiar las sugerencias que tus seguidores dejaron y agregarlas manualmente al arreglo `cheats` en el código.
+
+## Compartir
+Pasá el link a tu tropa y deciles algo como:  
+> “Escribí ‘dinero’ y clic en copiar. Pushutropa dice: ¡usa los cheats con cabeza!”
