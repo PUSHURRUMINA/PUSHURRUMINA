@@ -1,4 +1,4 @@
-# Pushutropa Cheats Sims 4
+# Cheats Sims 4
 
 Este repo contiene la página web de cheats de Los Sims 4 hecha para la tropa.  
 Es 100% gratis, sin servidores ni micropagos. Solo necesitas abrir el link y usarlo.
